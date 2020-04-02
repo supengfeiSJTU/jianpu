@@ -4,3 +4,4 @@ jiayou
 yayaya
 edit by error
 edit by spf
+test SSH 免密
